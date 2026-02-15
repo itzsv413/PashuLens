@@ -8,8 +8,7 @@ venv
 __pycache__
 *.pyc
 
-# Model files (optional if large)
-*.pth
+
 
 # Environment files
 .env
