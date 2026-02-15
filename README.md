@@ -119,7 +119,7 @@ MongoDB is connected
 
 ---
 
-### 3️⃣ Frontend Setup
+### 4️⃣ Frontend Setup
 
 ```bash
 npm install
