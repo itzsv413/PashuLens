@@ -45,13 +45,15 @@ It provides real-time predictions along with confidence scores through a clean a
 ```
 PashuLens/
 │
-├── src/
-│   ├── api/
-|   ├──components/
-|   ├──styles/
-|   ├──App.tsx
-|   ├──index.css
-|   ├──main.tsx
+├── frontend
+|   | src/
+│   | ├── api/
+|   | ├──components/
+|   | ├──styles/
+|   | ├──App.tsx
+|   | ├──index.css
+|   | └──main.tsx
+|   ├─index.html
 │   └── package.json
 |
 ├──backend/
